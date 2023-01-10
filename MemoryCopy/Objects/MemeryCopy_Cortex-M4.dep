@@ -1,0 +1,5 @@
+Dependencies for Project 'MemeryCopy', Target 'Cortex-M4': (DO NOT MODIFY !)
+CompilerVersion: <unknown>
+F (.\main.s)(0x62AD22C5)()
+F (RTE/Device/STM32F411VETx/startup_stm32f411xe.s)(0x61112330)()
+F (RTE/Device/STM32F411VETx/system_stm32f4xx.c)(0x61112330)()
